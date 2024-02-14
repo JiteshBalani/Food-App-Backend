@@ -1,0 +1,25 @@
+{
+  "name": "food-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for YummyTummy react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiteshBalani/Food-App-Backend.git"
+  },
+  "author": "Jitesh Balani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiteshBalani/Food-App-Backend/issues"
+  },
+  "homepage": "https://github.com/JiteshBalani/Food-App-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-fetch": "^4.0.0",
+    "express": "^4.18.2"
+  }
+}
